@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590580878 source:c:\users\sandeepkumar\desktop\codes-'c'\piano\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<ctype.h>
+
